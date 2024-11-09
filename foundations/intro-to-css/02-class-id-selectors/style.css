@@ -1,0 +1,19 @@
+.pStyle {
+    background-color: rgb(255, 109, 109);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.pStyleCooler {
+    font-size: 24px;
+}
+
+#numberTwo {
+    color: #2b95ff;
+    font-size: 36px;
+}
+
+#numberFour {
+    background-color: #00a44d;
+    font-size: 24px;
+    font-weight: bold;
+}
