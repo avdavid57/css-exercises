@@ -16,6 +16,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px;
 }
 
 input {
@@ -23,15 +24,6 @@ input {
   border-radius: 16px;
   padding: 8px 24px;
   width: 400px;
-}
-
-.header {
-  display: flex;
-  align-items: center;
-}
-
-.left-links, .right-links {
-  display: flex;
 }
 
 /* Solution */

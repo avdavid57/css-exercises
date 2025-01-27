@@ -21,9 +21,13 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
+<<<<<<< HEAD
+
+=======
   flex-direction: row;
   padding: 16px;
   gap: 16px;
+>>>>>>> 3c426e56147f70abf68c46c2b701003a6c27da8b
 }
 
 .icon {
